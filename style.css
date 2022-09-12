@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 1px;
+
+}
+
+body{
+    background-color: rgb(122, 122, 255);
+}
+.ul2{
+    margin-left: 405px;
+    margin-top: -810px;
+}
+.ul3{
+    margin-left: 405px;
+    margin-top: 1px;
+}
+.ul4{
+    margin-left: 1px;
+    margin-top: -415px;
+}
